@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "firsttris.vscode-jest-runner",
+    "shardulm94.trailing-spaces",
+    "streetsidesoftware.code-spell-checker",
+    "wix.vscode-import-cost",
+    "mechatroner.rainbow-csv"
+  ]
+}

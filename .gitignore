@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+build
+coverage
+tsconfig.tsbuildinfo
+npm-packages-offline-cache
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
